@@ -2,23 +2,23 @@
 
 ## Aragon
 
-Aragon hacker guide
+Aragon hacker guide  
 https://hack.aragon.one
 
-Aragon Wiki
+Aragon Wiki  
 https://wiki.aragon.one/
 
-aragonOS smart contract framework developer documentation
+aragonOS smart contract framework developer documentation  
 https://wiki.aragon.one/submodules/aragonOS/docs/aragonOS/
 
-Aragon Apps documentation
+Aragon Apps documentation  
 https://wiki.aragon.one/dev/apps/
 
 https://github.com/aragon
 
 ## Gnosis
 
-Gnosis JavaScript Library Documentation
+Gnosis JavaScript Library Documentation  
 https://gnosisjs.readthedocs.io/en/latest/
 
 https://github.com/gnosis/gnosis.js
@@ -41,7 +41,7 @@ https://github.com/melonproject/trading-bot-talk
 
 https://github.com/melonproject/smart-contracts
 
-Simon Emanuel Schmid - Building a Trading Bot with Melon.js
+Simon Emanuel Schmid - Building a Trading Bot with Melon.js  
 https://www.youtube.com/watch?v=eY1D03fbIuQ
 
 ## Raiden Network
